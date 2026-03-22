@@ -162,11 +162,11 @@ layers:
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - BT CLEAR ALL
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
+  - {t: '$$mdi:bluetooth-off$$', h: '0'}
+  - {t: '$$mdi:bluetooth-off$$', h: '1'}
+  - {t: '$$mdi:bluetooth-off$$', h: '3'}
+  - {t: '$$mdi:bluetooth-off$$', h: '4'}
+  - {t: '$$mdi:bluetooth-off$$', h: '5'}
   - {t: '$$mdi:transfer$$', type: trans}
   - $$mdi:mouse-left-click-outline$$
   - {t: '$$mdi:transfer$$', type: trans}
